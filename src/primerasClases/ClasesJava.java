@@ -85,12 +85,5 @@ public class ClasesJava {
         System.out.println(comparacion.equals(comparacion2)); // false
         System.out.println(comparacion.equalsIgnoreCase(comparacion2)); // true
 
-
-        // Los Strings son inmutables
-
-        String saludar = "Hola";
-
-        
-
     }
 }
