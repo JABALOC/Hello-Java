@@ -23,7 +23,7 @@ public class EjercicioArrays {
         int[] almacen = new int[199];
 
         for (int i = 0; i < 199; i++) {
-            int numAleatorio = (int)(Math.round(Math.random() * 100));
+            int numAleatorio = (int)(Math.random() * 100);
             almacen[i] = numAleatorio;
         }
 
